@@ -1,5 +1,5 @@
 # Compose Responsive Layout
-This project is part of my Android Development Specialization provided by Meta on Coursera. In this project, I implement a simple UI that is adapted to both landscape and portrait orientations.
+This project is part of my Android Development Specialization provided by Meta on Coursera. In this project, I implemented a simple UI that is adapted to both landscape and portrait orientations.
 
 ## Screenshots from the app
 <img width="70%" alt="Screenshot_15" src="https://user-images.githubusercontent.com/92806557/232344807-251998a6-7f06-42b8-8891-c46bedb15849.png">
